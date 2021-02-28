@@ -1,0 +1,6 @@
+0|Room Name|Description|Adjacent Rooms (N S E W)|Puzzle|Monster|Items|Pictures 
+1|Courtyard|A beautiful courtyard with flowers on both sides of the stone walkway. The walkway leads north.|2 0 0 0|None|None|None|courtyard.png 
+2|Mansion Entrance|Entrance to an old, musty-smelling mansion. Some people have entered, to never return. The door to the north is open. The courtyard is to your south.|3 1 0 0|None|None|Thumb Drive|entrance.png 
+3|Foyer|The foyer of the mansion. A staircase leads upstairs but it is delapidated and unusable. A strange breeze moves through the room. Eastward is a small room that looks like a library.|0 2 4 0|None|None|Lamp|foyer.png 
+4|Spooky Library|You walked into this eerie library FROM the west. It's dimly lit. Books are rustling by themselves on the bookshelf. Maybe we should leave?|-6 0 -5 3|Bookshelf|None|None|library.png 
+5|Hidden Chamber|You've found a hidden chamber!|0 0 0 4|None|None|Algorithms Book|secret_room.png 
